@@ -5,22 +5,22 @@ public class part01 {
 	public static void main(String[] args) {
 		
 		
-		char one = 'ºÒ';//ÇÑ±ÛÀÚ ÀÛ¼º°¡´É  À¯´ÏÄÚµåÀÛ¼º °¡´É
-		String name = "È«±æµ¿";//±ÛÀÚ¾µ¼öÀÖÀ½
+		char one = 'ë¶ˆ';//í•œê¸€ìë§Œ ì ìš© ''ì‚¬ìš© ìœ ë‹ˆì½”ë“œ ì‚¬ìš©ê°€ëŠ¥
+		String name = "í™ê¸¸ë™";//ê¸€ì ì‚¬ìš©ê°€ëŠ¥
 		
 		
-		byte b = 127;//¿ë·®ÀÌ ÀÛÀ½
-		short c = 10;//¿ë·®ÀÌ ÀÛÀ½
-		int a = 30;// ¸¹ÀÌ¾¸
-		long d = 12354656L;// ¿ë·®ÀÌ Å©³ª Àß¾È¾¸ ¿À·ù¸¦ ³¾°¡´É¼º ³ôÀ½
-		float e = 0.1f;//¼Ò¼öÁ¡ ÀúÀå ³¡¿¡ fÀÛ¼º
-		double f = 0.11;//¼Ò¼öÁ¡ ÀÛ¼º À§º¸´Ù Å­
+		byte b = 127;//
+		short c = 10;//
+		int a = 30;// 
+		long d = 12354656L;// 
+		float e = 0.1f;//
+		double f = 0.11;//
 		
-		int var1 = 10;  //10Áø¼ö ÀúÀå
-		int var2 = 012; //8Áø¼ö ÀúÀå
-		int var3 = 0xA; //16Áø¼ö ÀúÀå
+		int var1 = 10;  //10ì§„ìˆ˜
+		int var2 = 012; //8ì§„ìˆ˜
+		int var3 = 0xA; //16ì§„ìˆ˜
 		
-		int unicode = one;//char one ÀÇ À¯´ÏÄÚµå
+		int unicode = one;//char one ìœ ë‹ˆì½”ë“œ í‘œì‹œ
 		System.out.println(unicode);
 		
 		

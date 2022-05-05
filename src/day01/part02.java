@@ -4,7 +4,7 @@ public class part02 {
 
 	public static void main(String[] args) {
 
-		//¿¬»ê½ÄÀÇ ÀÚµ¿ Å¸ÀÔ º¯È¯
+		//ìë„ë³€í™˜
 		
 		byte bytea = 10;
 		byte byteb = 20;
@@ -15,13 +15,13 @@ public class part02 {
 		
 		
 		
-		char chara = '°¡';
+		char chara = 'ê°€';
 		char charb = 1;
 		
 		int intb = chara + charb;
 	
-		System.out.println(intb);//°¡ÀÇ À¯´ÏÄÚµå
-		System.out.println((char)intb);//°¡+1ÀÇ À¯´ÏÄÚµåÀÇ ÇÑ±Û
+		System.out.println(intb);//
+		System.out.println((char)intb);//
 		
 		
 		
