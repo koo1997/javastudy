@@ -3,7 +3,7 @@ package day01;
 public class part01 {
 
 	public static void main(String[] args) {
-		System.out.println("gittest");
+		System.out.println("gittddddest");
 
 	}
 
