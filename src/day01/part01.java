@@ -15,6 +15,7 @@ public class part01 {
 		long d = 12354656L;// 
 		float e = 0.1f;//
 		double f = 0.11;//
+		boolean g = a>10;//a가 true 인지 false 인지 두개로만표현
 		
 		int var1 = 10;  //10진수
 		int var2 = 012; //8진수
@@ -22,6 +23,10 @@ public class part01 {
 		
 		int unicode = one;//char one 유니코드 표시
 		System.out.println(unicode);
+		char an = 'A';
+		System.out.println(an);
+		int bn = '가' ;
+		System.out.println(bn);
 		
 		
 		
